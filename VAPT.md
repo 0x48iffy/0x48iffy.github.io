@@ -54,4 +54,6 @@ An engineer emulates an attacker hacking from inside the network with an end goa
 
 ### - Webapplication Penetration Testing
 Web application testing measures the security posture of your website and/or custom developed application. We perform full unauthenticated and authenticated testing based on strict OWASP guidelines. Our experts focus on identifying weak points across the entire web application to ensure your applications and data stay safe.
+
+
 ---
