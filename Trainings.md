@@ -61,12 +61,17 @@
    - Reverse Shell vs Blind Shell
    - Brute force Attack 
    - Password Spraying n Credential Stuffing
+   - SQL injection
    
 11. Basics of WiFi Hacking
    - Wi-Fi phisher 
    - Aircrack-ng
+   
+12. Build your own tools using pyhton
+   - MAC changer
+   - Keylogger
 
-12. What next ?
+13. What next ?
    - CTFs, Machine (Introduction to HTB, TryHackMe) 
    - Ebooks and resource 
    - What to do next / Certifications and Jobs
